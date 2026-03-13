@@ -1,0 +1,18 @@
+.texto{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    margin: 9%;
+    padding: 2%;
+    background-color: grey;
+}
+.caixa{
+    display: flex;
+    justify-content:center
+}
+.imagen img{
+    margin: 10%;
+    padding: 25%;
+}
+body{
+    background-color: whitesmoke;
+}
