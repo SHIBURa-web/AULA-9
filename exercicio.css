@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+}
+.titulo{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+body{
+    background-image: url(imagen/back.jpg);
+    background-size:cover ;
+}
+.caixa{
+    background-image: none;
+    display: flex;
+    justify-content:center
+}
+.caixa div{
+    background-color: orange;
+    margin: 10px;
+    padding: 10px;
+}
+.Gokubase img{width: 140px;}
+.Gokuss img{width: 140px;}
+.Gokuss2 img{width: 215px;}
+.Gokuss3 img{width: 140px;}
+.Gokuss4 img{width: 265px;}
+.Gokussb img{width: 180px;}
+.logo{width: 200px}
